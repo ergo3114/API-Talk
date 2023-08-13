@@ -1,13 +1,13 @@
 # Generated files by hugo
-/public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
+/API-Talk/public/
+/API-Talk/resources/_gen/
+/API-Talk/assets/jsconfig.json
+/API-Talk/hugo_stats.json
 
 # Executable may be added to repository
-hugo.exe
-hugo.darwin
-hugo.linux
+/API-Talk/hugo.exe
+/API-Talk/hugo.darwin
+/API-Talk/shugo.linux
 
 # Temporary lock file while building
-/.hugo_build.lock
+/API-Talk/.hugo_build.lock
