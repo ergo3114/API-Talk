@@ -1,0 +1,3 @@
+[submodule "API-Talk/themes/docura"]
+	path = API-Talk/themes/docura
+	url = https://github.com/docura/docura.git
